@@ -4,7 +4,7 @@ Berkshelf-netrc
 extend berkshelf to support chef universe endpoints with HTTP authentication
 when a netrc entry for your berksfile source exists
 
-== Usage
+## Usage
 
 Add a netrc entry for your berkshelf source
 
