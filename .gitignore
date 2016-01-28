@@ -1,0 +1,5 @@
+.DS_Store
+Berksfile
+Berksfile.lock
+Gemfile.lock
+pkg/
